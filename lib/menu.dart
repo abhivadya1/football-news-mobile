@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
 
-  final String nama = "Anak Agung Ngurah Abhivadya Nandanan"; //nama
+  final String nama = "Anak Agung Ngurah Abhivadya Nandana"; //nama
   final String npm = "2406439192"; //npm
   final String kelas = "F"; //kelas
 
