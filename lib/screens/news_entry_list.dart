@@ -83,3 +83,4 @@ class _NewsEntryListPageState extends State<NewsEntryListPage> {
     );
   }
 }
+
