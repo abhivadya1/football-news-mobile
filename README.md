@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+## Bitrise
 # Nama Aplikasi
 [![Build Status](https://app.bitrise.io/app/a412b736-673e-4f6a-8c5d-1d3fe4827c49/status.svg?token=3UaLurcpLtlmS2gHnxm9uQ&branch=main)](https://app.bitrise.io/app/a412b736-673e-4f6a-8c5d-1d3fe4827c49)
 
